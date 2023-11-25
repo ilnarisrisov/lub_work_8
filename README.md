@@ -9,10 +9,6 @@ PyCharm, Python
 
 # Тесты
 Тест 1
-![1--](https://github.com/ilnarisrisov/lub_work_8/assets/146421910/a9d304cf-44f7-4bc7-baaf-460d18de07fc)
-
+![1--](https://github.com/ilnarisrisov/lub_work_8/assets/146421910/ef607202-d22a-4b72-88c6-c8dbe93b900b)
 Тест 2
-![2--](https://github.com/ilnarisrisov/lub_work_8/assets/146421910/348e2b4a-e130-4c43-b36f-b0c9c5a39759)
-
-Тест 3
-![3--](https://github.com/ilnarisrisov/lub_work_8/assets/146421910/3cc02f21-6c07-41ae-bf08-276b5d77052f)
+![2--](https://github.com/ilnarisrisov/lub_work_8/assets/146421910/e7eb2b01-c7cd-49f7-95c8-f39cbbd56c2a)
