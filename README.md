@@ -10,5 +10,6 @@ PyCharm, Python
 # Тесты
 Тест 1
 ![1--](https://github.com/ilnarisrisov/lub_work_8/assets/146421910/ef607202-d22a-4b72-88c6-c8dbe93b900b)
+
 Тест 2
 ![2--](https://github.com/ilnarisrisov/lub_work_8/assets/146421910/e7eb2b01-c7cd-49f7-95c8-f39cbbd56c2a)
